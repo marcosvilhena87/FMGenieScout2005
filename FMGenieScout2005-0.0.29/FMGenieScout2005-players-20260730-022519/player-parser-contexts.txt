@@ -1,0 +1,2000 @@
+﻿[Vasilis Tsiartas] DBID=12774 identity=Vasilis Tsiartas source=KNOWN_DISPLAY_NAME
+  status=FreeAgent | owner=- | active=- | loan=False
+  wage=- | start=- | end=N/D (NotApplicable) | flags=FREE_AGENT|IDENTITY_NOT_RESOLVED
+
+[Antônio da Silva] DBID=500471 identity=Antônio da Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=1.FSV Mainz 05 | active=1.FSV Mainz 05 | loan=False
+  wage=7500 | start=2003 | end=2005-06-30 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Volmir Francisco] DBID=311343 identity=Volmir Francisco source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Chapecoense F | active=A Chapecoense F | loan=False
+  wage=250 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alencar] DBID=8833423 identity=Alencar source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Uberaba SC | active=A Portuguesa D | loan=True
+  wage=229 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Amersur Araújo] DBID=310949 identity=Amersur Araújo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Calmon Felix] DBID=6900141 identity=Calmon Felix source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=268 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Carlinhos Neves] DBID=6900668 identity=Carlinhos Neves source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=187 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Celso Luís] DBID=8832899 identity=Celso Luís source=KNOWN_DISPLAY_NAME
+  status=FormationContract | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=30 | start=2004 | end=N/D (NotDefined) | flags=SENTINEL_END_DATE
+
+[Chrysostomo Fonseca] DBID=3301255 identity=Chrysostomo Fonseca source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=434 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Costa Lopes] DBID=303355 identity=Costa Lopes source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=212 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Daniel Luiz] DBID=308404 identity=Daniel Luiz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=75 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Lucena] DBID=316632 identity=de Lucena source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=284 | start=2002 | end=2005-07-15 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Dias Pereira] DBID=316675 identity=Dias Pereira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ferreira Pedro] DBID=320567 identity=Ferreira Pedro source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=SC Corinthians Paulista | active=A Portuguesa D | loan=True
+  wage=31 | start=2001 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ferreira Xavier] DBID=8833424 identity=Ferreira Xavier source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=206 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Florisvaldo] DBID=310948 identity=Florisvaldo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=203 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Fontone] DBID=316661 identity=Fontone source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=163 | start=2002 | end=2005-07-11 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gama Rodrigues] DBID=310958 identity=Gama Rodrigues source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=250 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gilberto] DBID=316669 identity=Gilberto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gléguer] DBID=3300956 identity=Gléguer source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=1350 | start=2003 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Itaparica] DBID=8825571 identity=Itaparica source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Cruzeiro EC | active=A Portuguesa D | loan=True
+  wage=92 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ivandro Aparecido] DBID=316729 identity=Ivandro Aparecido source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=231 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Jackson José] DBID=316671 identity=Jackson José source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Jorge Antônio] DBID=316672 identity=Jorge Antônio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Kesley] DBID=316673 identity=Kesley source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=332 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Kleyr] DBID=304847 identity=Kleyr source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=345 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Lucas Souza] DBID=319648 identity=Lucas Souza source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Juventus (SP) | active=A Portuguesa D | loan=True
+  wage=237 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Luciano Santos] DBID=316134 identity=Luciano Santos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=646 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Luís César] DBID=316674 identity=Luís César source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=219 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Luiz Carlos Ferreira] DBID=304448 identity=Luiz Carlos Ferreira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=737 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Mirando] DBID=316666 identity=Mirando source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=156 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Monteiro Bolognez] DBID=320155 identity=Monteiro Bolognez source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=75 | start=2002 | end=2005-09-01 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Oleúde José] DBID=302209 identity=Oleúde José source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=596 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Paulo Fabrício] DBID=6900139 identity=Paulo Fabrício source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=1342 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Piter] DBID=316677 identity=Piter source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rafael Fernando] DBID=316662 identity=Rafael Fernando source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Reginaldo Rivelino] DBID=301652 identity=Reginaldo Rivelino source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=731 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Róbson Paulo] DBID=308976 identity=Róbson Paulo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=509 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rodrigo Costa] DBID=316633 identity=Rodrigo Costa source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=261 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rosa Vieira] DBID=316631 identity=Rosa Vieira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=167 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Santana de Oliveira] DBID=303188 identity=Santana de Oliveira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=763 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Soares Rosa] DBID=310947 identity=Soares Rosa source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=256 | start=2003 | end=2005-02-02 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Tarciso Rogério] DBID=304560 identity=Tarciso Rogério source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=264 | start=2004 | end=2005-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Valtemir] DBID=2001635 identity=Valtemir source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa D | active=A Portuguesa D | loan=False
+  wage=330 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Antunes Freitas] DBID=306958 identity=Antunes Freitas source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa Londrinense | active=A Portuguesa Londrinense | loan=False
+  wage=250 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Koslowski] DBID=8829991 identity=Koslowski source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Portuguesa Londrinense | active=A Portuguesa Londrinense | loan=False
+  wage=188 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Adinamar] DBID=306401 identity=Adinamar source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Rio Negro C (AM) | active=A Rio Negro C (AM) | loan=False
+  wage=363 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Augusto Célio] DBID=306409 identity=Augusto Célio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Rio Negro C (AM) | active=A Rio Negro C (AM) | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Dias Martins] DBID=306408 identity=Dias Martins source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Rio Negro C (AM) | active=A Rio Negro C (AM) | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gean] DBID=306404 identity=Gean source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Rio Negro C (AM) | active=A Rio Negro C (AM) | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Guedes Almeida] DBID=306411 identity=Guedes Almeida source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Rio Negro C (AM) | active=A Rio Negro C (AM) | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Odivaldo] DBID=306402 identity=Odivaldo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Rio Negro C (AM) | active=A Rio Negro C (AM) | loan=False
+  wage=100 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Bonet] DBID=306665 identity=Bonet source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Rio Negro C (RR) | active=A Rio Negro C (RR) | loan=False
+  wage=250 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Azevedo Cruz] DBID=318249 identity=Azevedo Cruz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Roraima C | active=A Roraima C | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Bonates] DBID=318258 identity=Bonates source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Roraima C | active=A Roraima C | loan=False
+  wage=250 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Carlos Pereira] DBID=318254 identity=Carlos Pereira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Roraima C | active=A Roraima C | loan=False
+  wage=338 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Jesús Mateus] DBID=320949 identity=de Jesús Mateus source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Roraima C | active=A Roraima C | loan=False
+  wage=91 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Maicon João] DBID=320950 identity=Maicon João source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Roraima C | active=A Roraima C | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pereira Moura] DBID=320948 identity=Pereira Moura source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Roraima C | active=A Roraima C | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Quadros de Lima] DBID=318257 identity=Quadros de Lima source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Roraima C | active=A Roraima C | loan=False
+  wage=201 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Salvato Júnior] DBID=318252 identity=Salvato Júnior source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Roraima C | active=A Roraima C | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Vittor] DBID=318253 identity=Vittor source=IDENTITY_FRAGMENT
+  status=Contracted | owner=A Roraima C | active=A Roraima C | loan=False
+  wage=317 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alberto Henrique] DBID=305125 identity=Alberto Henrique source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=386 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alencar de Freitas] DBID=8833435 identity=Alencar de Freitas source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=187 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[André Cabeça] DBID=8833433 identity=André Cabeça source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=185 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[André Ramos] DBID=305115 identity=André Ramos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Barbosa Machado] DBID=6900023 identity=Barbosa Machado source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=897 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Carlão] DBID=8833426 identity=Carlão source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=226 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Castro de Araújo] DBID=3301053 identity=Castro de Araújo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=440 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Cruzeiro Ladaga] DBID=304237 identity=Cruzeiro Ladaga source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=115 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Costa Filho] DBID=305133 identity=da Costa Filho source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=220 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Rocha Sena] DBID=305088 identity=da Rocha Sena source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=419 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Domingos Antônio] DBID=3300839 identity=Domingos Antônio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=223 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[dos Santos Seves] DBID=3301511 identity=dos Santos Seves source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=136 | start=2002 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ednílson] DBID=3300800 identity=Ednílson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=171 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Elísio André] DBID=306784 identity=Elísio André source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=82 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Emanuel] DBID=8833434 identity=Emanuel source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=139 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ezequiel] DBID=305127 identity=Ezequiel source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=126 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gilsinei Tomás] DBID=305122 identity=Gilsinei Tomás source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Giuliano] DBID=3300304 identity=Giuliano source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=461 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Hílton Mauro] DBID=316617 identity=Hílton Mauro source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=441 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Jaison] DBID=8833427 identity=Jaison source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=389 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Jonathan Jaime] DBID=8833428 identity=Jonathan Jaime source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=110 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[José Marcial] DBID=305167 identity=José Marcial source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=108 | start=2002 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Leonardo Eugênio] DBID=305119 identity=Leonardo Eugênio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=296 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marcelo Capixaba] DBID=8833431 identity=Marcelo Capixaba source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=170 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marcondes da Silva] DBID=305129 identity=Marcondes da Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Maurício Gustavo] DBID=306146 identity=Maurício Gustavo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=104 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Oliveira de Queiroz] DBID=306393 identity=Oliveira de Queiroz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=168 | start=2001 | end=2006-01-07 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pedro Ednaldo] DBID=305118 identity=Pedro Ednaldo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=130 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pereira Mazzola] DBID=305113 identity=Pereira Mazzola source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=186 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ramires Alberto] DBID=316578 identity=Ramires Alberto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=154 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Roberto Fernandes] DBID=317574 identity=Roberto Fernandes source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=540 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Róbson Leonardo] DBID=305123 identity=Róbson Leonardo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=241 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rodrigues Batista] DBID=8833425 identity=Rodrigues Batista source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=211 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Toledo] DBID=305160 identity=Toledo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=185 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Tute] DBID=321229 identity=Tute source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Anapolina | active=AA Anapolina | loan=False
+  wage=175 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Divino Frazão] DBID=317125 identity=Divino Frazão source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Caldense | active=AA Caldense | loan=False
+  wage=76 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Phelipe] DBID=317132 identity=Phelipe source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Caldense | active=AA Caldense | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Santos do Amor Divino] DBID=307388 identity=Santos do Amor Divino source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Caldense | active=AA Caldense | loan=False
+  wage=139 | start=2002 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Silveira Ramos] DBID=304968 identity=Silveira Ramos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Caldense | active=AA Caldense | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Tamarnes Geraldo] DBID=304978 identity=Tamarnes Geraldo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Caldense | active=AA Caldense | loan=False
+  wage=250 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Larcher Júnior] DBID=315204 identity=Larcher Júnior source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Francana | active=AA Francana | loan=False
+  wage=331 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Adriano Antônio] DBID=318215 identity=Adriano Antônio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Almeida Santos] DBID=318213 identity=Almeida Santos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=249 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Carlos Válber] DBID=7100118 identity=Carlos Válber source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=372 | start=2003 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Cláudio André] DBID=318205 identity=Cláudio André source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=232 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Cléderson] DBID=304268 identity=Cléderson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=146 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ferreira de Souza Filho] DBID=5230023 identity=Ferreira de Souza Filho source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=164 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gonçalves Jesuino] DBID=318210 identity=Gonçalves Jesuino source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Lopes Alcântara] DBID=318204 identity=Lopes Alcântara source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=288 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Negreiro de Souza] DBID=304267 identity=Negreiro de Souza source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=256 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Negreiro Souza] DBID=318206 identity=Negreiro Souza source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rogério] DBID=6900576 identity=Rogério source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=318 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Soares Brandão] DBID=318212 identity=Soares Brandão source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Waldison] DBID=318208 identity=Waldison source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Internacional | active=AA Internacional | loan=False
+  wage=212 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Mozair] DBID=312271 identity=Mozair source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Luziânia | active=AA Luziânia | loan=False
+  wage=250 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alvimar Eustáquio] DBID=316706 identity=Alvimar Eustáquio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=588 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Andrade Lopes] DBID=316687 identity=Andrade Lopes source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Andrade Rissutt] DBID=315585 identity=Andrade Rissutt source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=174 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[André Gustavo] DBID=320999 identity=André Gustavo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=545 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[André Luiz] DBID=307311 identity=André Luiz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=282 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[André Santos] DBID=3300167 identity=André Santos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=542 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Anselmo Tadeu] DBID=319214 identity=Anselmo Tadeu source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=SE Palmeiras | active=AA Ponte Preta | loan=True
+  wage=324 | start=2001 | end=2005-03-28 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Barbosa da França] DBID=8832795 identity=Barbosa da França source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=383 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Barbosa de França] DBID=316685 identity=Barbosa de França source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Buccioli Júnior] DBID=316693 identity=Buccioli Júnior source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Corrêa Campos] DBID=316681 identity=Corrêa Campos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Silva Martins] DBID=316692 identity=da Silva Martins source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=33 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Campos Gomes] DBID=316697 identity=de Campos Gomes source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Paula Queiroz] DBID=3300990 identity=de Paula Queiroz source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=SE Gama | active=AA Ponte Preta | loan=True
+  wage=781 | start=2001 | end=2006-05-09 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Souza Ozias] DBID=301978 identity=de Souza Ozias source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=385 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[dos Santos Vicentini] DBID=316690 identity=dos Santos Vicentini source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=261 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Eduardo Augusto] DBID=311706 identity=Eduardo Augusto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Feres Moreira] DBID=316689 identity=Feres Moreira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=198 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ferrari] DBID=3300173 identity=Ferrari source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=451 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Flávio Luís] DBID=3301008 identity=Flávio Luís source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=SE Palmeiras | active=AA Ponte Preta | loan=True
+  wage=370 | start=2002 | end=2006-06-30 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Franchin Schiavolin] DBID=3301003 identity=Franchin Schiavolin source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=467 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Godói Pereira] DBID=8827472 identity=Godói Pereira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=352 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Godoy Barroso] DBID=311207 identity=Godoy Barroso source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=493 | start=2004 | end=2004-12-28 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gumieiro] DBID=8825414 identity=Gumieiro source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=99 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Isaías Gabriel] DBID=316634 identity=Isaías Gabriel source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=293 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[João Dermival] DBID=303682 identity=João Dermival source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=588 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Júnior Vieira] DBID=303769 identity=Júnior Vieira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Labatte] DBID=308328 identity=Labatte source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=294 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Lauro Júnior] DBID=310961 identity=Lauro Júnior source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=297 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Luís Carlos] DBID=303771 identity=Luís Carlos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=237 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Márcio Wendel] DBID=6900137 identity=Márcio Wendel source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=União A Barbarense FC | active=AA Ponte Preta | loan=True
+  wage=462 | start=2003 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Mário Lúcio] DBID=8832793 identity=Mário Lúcio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=158 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marques Pereira] DBID=3300177 identity=Marques Pereira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=502 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Maurílio] DBID=5240080 identity=Maurílio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=354 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Medeiros de Almeida] DBID=316511 identity=Medeiros de Almeida source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=São Paulo FC | active=AA Ponte Preta | loan=True
+  wage=561 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Mendes Rodrigues] DBID=3301204 identity=Mendes Rodrigues source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=570 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Moreno] DBID=316705 identity=Moreno source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=588 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Nenê Santana] DBID=303220 identity=Nenê Santana source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=1822 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Noídio Guilherme] DBID=309128 identity=Noídio Guilherme source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Paraná C | active=AA Ponte Preta | loan=True
+  wage=633 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rafael Santos] DBID=316696 identity=Rafael Santos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=145 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ricardo Renato] DBID=8825413 identity=Ricardo Renato source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=278 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Robert] DBID=8832796 identity=Robert source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=275 | start=2004 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rodrigo Álvaro] DBID=316699 identity=Rodrigo Álvaro source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Sampaio Benedetti] DBID=8832797 identity=Sampaio Benedetti source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=142 | start=2004 | end=2004-11-30 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Santiago de Freitas] DBID=316688 identity=Santiago de Freitas source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Santos Laplechade] DBID=4102421 identity=Santos Laplechade source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=219 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Souza Benevido] DBID=303768 identity=Souza Benevido source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=232 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Souza da Cruz] DBID=3300154 identity=Souza da Cruz source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=EC Vitória | active=AA Ponte Preta | loan=True
+  wage=415 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Tagiarolli Pereira da Silva] DBID=316695 identity=Tagiarolli Pereira da Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=205 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Tanaka] DBID=308329 identity=Tanaka source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=588 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Thiago Luiz] DBID=316701 identity=Thiago Luiz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Tiago Messias] DBID=315071 identity=Tiago Messias source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Friburguense AC | active=AA Ponte Preta | loan=True
+  wage=305 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Vágner Luiz] DBID=316703 identity=Vágner Luiz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=272 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Wéldon] DBID=301622 identity=Wéldon source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=670 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Zancaner Ueta] DBID=316698 identity=Zancaner Ueta source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Ponte Preta | active=AA Ponte Preta | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Almeida Neto] DBID=315456 identity=Almeida Neto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=83 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[André Augusto] DBID=306055 identity=André Augusto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=307 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Belo de Souza] DBID=3300629 identity=Belo de Souza source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=430 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Carolina] DBID=8826949 identity=Carolina source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=168 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Correia Lacerda] DBID=8826947 identity=Correia Lacerda source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=302 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Cruz Vitorino] DBID=3300384 identity=Cruz Vitorino source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=351 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Eberson] DBID=315276 identity=Eberson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=204 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Fernandes Vasconcelos] DBID=8825478 identity=Fernandes Vasconcelos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=249 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gomes de Azevedo] DBID=315217 identity=Gomes de Azevedo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=265 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[José Inácio] DBID=305915 identity=José Inácio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=365 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Márcio Cristiano] DBID=8826943 identity=Márcio Cristiano source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=133 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marlon] DBID=3300405 identity=Marlon source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=190 | start=2002 | end=2007-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Nilberto] DBID=315639 identity=Nilberto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=409 | start=2004 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Nogueira] DBID=317010 identity=Nogueira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=94 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Orlandinho] DBID=3300669 identity=Orlandinho source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=179 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Wagner] DBID=305186 identity=Wagner source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Portuguesa (RJ) | active=AA Portuguesa (RJ) | loan=False
+  wage=88 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Clayton Daniel] DBID=319531 identity=Clayton Daniel source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Santa Ritense | active=AA Santa Ritense | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ednílton Marcelo] DBID=319557 identity=Ednílton Marcelo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Santa Ritense | active=AA Santa Ritense | loan=False
+  wage=340 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Melo Paraunas] DBID=306799 identity=de Melo Paraunas source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Sinop | active=AA Sinop | loan=False
+  wage=246 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ferreira dos Santos] DBID=317599 identity=Ferreira dos Santos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Sinop | active=AA Sinop | loan=False
+  wage=250 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marcelinho Boaideiro] DBID=306804 identity=Marcelinho Boaideiro source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Sinop | active=AA Sinop | loan=False
+  wage=233 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pereira Santana] DBID=306808 identity=Pereira Santana source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AA Sinop | active=AA Sinop | loan=False
+  wage=73 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Carlos Mota] DBID=3300753 identity=Carlos Mota source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=384 | start=2002 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Cruz Santos Campos] DBID=315210 identity=Cruz Santos Campos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=127 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Sá Soares] DBID=315211 identity=de Sá Soares source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=146 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Diá] DBID=311074 identity=Diá source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=175 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Edmundo] DBID=3300468 identity=Edmundo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=231 | start=2004 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Erivan] DBID=319289 identity=Erivan source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=361 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Everaldo] DBID=6900127 identity=Everaldo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=408 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Francisco Antônio Marcos] DBID=3300815 identity=Francisco Antônio Marcos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=315 | start=2002 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Guaraci] DBID=304526 identity=Guaraci source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=142 | start=2002 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Isaac Gabriel] DBID=315209 identity=Isaac Gabriel source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ivan Francisco] DBID=902073 identity=Ivan Francisco source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=662 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marcelo Tinôco] DBID=3300135 identity=Marcelo Tinôco source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=357 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marciano] DBID=307084 identity=Marciano source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=261 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Márcio Cardoso] DBID=306770 identity=Márcio Cardoso source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=355 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Michel Fernando] DBID=308417 identity=Michel Fernando source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=166 | start=2002 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Posso Moreno] DBID=3301095 identity=Posso Moreno source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Cruzeiro EC | active=ABC FC | loan=True
+  wage=280 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Santiago do Nascimento] DBID=6900159 identity=Santiago do Nascimento source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=644 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Silveira Finazzi] DBID=302346 identity=Silveira Finazzi source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=813 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Thelónio] DBID=2001657 identity=Thelónio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=351 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ulisses] DBID=3301323 identity=Ulisses source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=470 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Valteci Ângelo] DBID=3301500 identity=Valteci Ângelo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=473 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Vital] DBID=315574 identity=Vital source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ABC FC | active=ABC FC | loan=False
+  wage=75 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Evangelista de Moraes] DBID=114557 identity=Evangelista de Moraes source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Milão | active=AC Milão | loan=False
+  wage=25000 | start=2003 | end=2005-06-30 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Nelson] DBID=3301076 identity=Nelson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Milão | active=AC Milão | loan=False
+  wage=13000 | start=2002 | end=2006-06-30 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ricardo Izecson] DBID=310625 identity=Ricardo Izecson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Milão | active=AC Milão | loan=False
+  wage=34186 | start=2003 | end=2008-06-30 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Sergio Claudio] DBID=106988 identity=Sergio Claudio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Milão | active=AC Milão | loan=False
+  wage=24000 | start=1999 | end=2005-06-30 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Aguiar Figeuiredo] DBID=317199 identity=Aguiar Figeuiredo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Paranavaí | active=AC Paranavaí | loan=False
+  wage=259 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Aléssio] DBID=3301451 identity=Aléssio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Paranavaí | active=AC Paranavaí | loan=False
+  wage=459 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Curvo Lopes] DBID=319198 identity=Curvo Lopes source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Paranavaí | active=AC Paranavaí | loan=False
+  wage=231 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Fidélis Rosa] DBID=319202 identity=Fidélis Rosa source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Paranavaí | active=AC Paranavaí | loan=False
+  wage=344 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gustavo Nílson] DBID=3300660 identity=Gustavo Nílson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Paranavaí | active=AC Paranavaí | loan=False
+  wage=242 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[João Correia] DBID=319196 identity=João Correia source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Paranavaí | active=AC Paranavaí | loan=False
+  wage=176 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Júlio] DBID=319204 identity=Júlio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Paranavaí | active=AC Paranavaí | loan=False
+  wage=330 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Macedo Maia] DBID=319201 identity=Macedo Maia source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Paranavaí | active=AC Paranavaí | loan=False
+  wage=481 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Nicolau] DBID=319203 identity=Nicolau source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Paranavaí | active=AC Paranavaí | loan=False
+  wage=365 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pessoa Neto] DBID=319205 identity=Pessoa Neto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Paranavaí | active=AC Paranavaí | loan=False
+  wage=394 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Sá Costa] DBID=319199 identity=Sá Costa source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AC Paranavaí | active=AC Paranavaí | loan=False
+  wage=260 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Cruz da Costa] DBID=312218 identity=Cruz da Costa source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Silva Cavalo] DBID=306760 identity=da Silva Cavalo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=263 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Dantas] DBID=312220 identity=Dantas source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=396 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Doramílton] DBID=306756 identity=Doramílton source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=192 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[dos Santos Vaz] DBID=306763 identity=dos Santos Vaz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=337 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Frédson] DBID=306757 identity=Frédson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Hermano José] DBID=306774 identity=Hermano José source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=276 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Jocides] DBID=306765 identity=Jocides source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=180 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Joreano] DBID=306758 identity=Joreano source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=266 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Josicley Robério] DBID=306766 identity=Josicley Robério source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=269 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pione Jorge] DBID=306761 identity=Pione Jorge source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Valterlúcio] DBID=312221 identity=Valterlúcio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potiguar | active=ACD Potiguar | loan=False
+  wage=100 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alberione José] DBID=312183 identity=Alberione José source=IDENTITY_FRAGMENT
+  status=Contracted | owner=ACD Potyguar S | active=ACD Potyguar S | loan=False
+  wage=250 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Jesús] DBID=317182 identity=Jesús source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Ateneu | active=AD Ateneu | loan=False
+  wage=250 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Arcelino] DBID=311762 identity=Arcelino source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=383 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Barbosa Nunes] DBID=320746 identity=Barbosa Nunes source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=321 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Costa da Silva] DBID=303263 identity=Costa da Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=506 | start=2004 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Conceição Francisco] DBID=301669 identity=da Conceição Francisco source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=242 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Costa Cardoso] DBID=320754 identity=da Costa Cardoso source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Silva Azevedo] DBID=302789 identity=da Silva Azevedo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=116 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Silva Lopes] DBID=3300887 identity=da Silva Lopes source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=158 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Dário] DBID=317573 identity=Dário source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=250 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[dos Santos Couto] DBID=320755 identity=dos Santos Couto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[dos Santos Ferraz] DBID=3300174 identity=dos Santos Ferraz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=157 | start=2003 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Filgueira Narciso] DBID=3300663 identity=Filgueira Narciso source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=275 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Fliip] DBID=320757 identity=Fliip source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=226 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gonçalves Luiz] DBID=3300700 identity=Gonçalves Luiz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=314 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Leite de Santana] DBID=312286 identity=Leite de Santana source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Oréquio] DBID=304115 identity=Oréquio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=377 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pereira Agualusa] DBID=312291 identity=Pereira Agualusa source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pereira Marins] DBID=312288 identity=Pereira Marins source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=89 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ricardo Frederico] DBID=7100150 identity=Ricardo Frederico source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=300 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Silva Francisco] DBID=315259 identity=Silva Francisco source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=156 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Vieira Xavier] DBID=303566 identity=Vieira Xavier source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Cabofriense | active=AD Cabofriense | loan=False
+  wage=330 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Wilson Januário] DBID=305080 identity=Wilson Januário source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Joinville EC | active=AD Cabofriense | loan=True
+  wage=362 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Adhemar] DBID=304508 identity=Adhemar source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=4477 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Adílson Francisco] DBID=316519 identity=Adílson Francisco source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Bispo Pereira Borges] DBID=316532 identity=Bispo Pereira Borges source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Borges Teixeira] DBID=316527 identity=Borges Teixeira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Carlos Luciano] DBID=3300170 identity=Carlos Luciano source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=3067 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Chagas Ferreira] DBID=316534 identity=Chagas Ferreira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=61 | start=2004 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Chininha] DBID=313080 identity=Chininha source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=282 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Costa Norimatsu] DBID=8832799 identity=da Costa Norimatsu source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=303 | start=2004 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Da Cruz] DBID=316537 identity=Da Cruz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Carvalho Fagundes] DBID=319928 identity=de Carvalho Fagundes source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Carvalho Silva] DBID=8825845 identity=de Carvalho Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=734 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Paula Limeira] DBID=316526 identity=de Paula Limeira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Souza Caiche] DBID=3301158 identity=de Souza Caiche source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=449 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[dos Santos de Oliveira] DBID=310748 identity=dos Santos de Oliveira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=223 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Éder Marcelo] DBID=304738 identity=Éder Marcelo source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Marília AC | active=AD São Caetano | loan=True
+  wage=384 | start=2003 | end=2006-06-08 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Édson Mendes] DBID=309111 identity=Édson Mendes source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=163 | start=2004 | end=2007-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Euller Elias] DBID=3900033 identity=Euller Elias source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=2966 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Forte] DBID=310752 identity=Forte source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=459 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[França da Silva] DBID=311204 identity=França da Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=459 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Garcia Borges] DBID=310774 identity=Garcia Borges source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=312 | start=2002 | end=2007-05-26 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Irondino] DBID=304501 identity=Irondino source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=632 | start=2001 | end=2005-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[João Américo] DBID=316528 identity=João Américo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Jonas] DBID=8835083 identity=Jonas Jessue source=KNOWN_DISPLAY_NAME
+  status=FormationContract | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=33 | start=2004 | end=N/D (NotDefined) | flags=SENTINEL_END_DATE
+
+[José Cândido] DBID=3301578 identity=José Cândido source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=733 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Junqueira Sales] DBID=308977 identity=Junqueira Sales source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=2557 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Laaber] DBID=14525 identity=Laaber source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=SC Corinthians Paulista | active=AD São Caetano | loan=True
+  wage=2064 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Lima Veiga] DBID=3300841 identity=Lima Veiga source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=4784 | start=2004 | end=2006-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Lúcio Flávio] DBID=3301317 identity=Lúcio Flávio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=924 | start=2004 | end=2008-01-15 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Luiz] DBID=318758 identity=Luiz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=205 | start=2002 | end=2007-06-27 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Luiz César] DBID=311203 identity=Luiz César source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=459 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Márcio Alexandre] DBID=311786 identity=Márcio Alexandre source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=75 | start=2004 | end=2007-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Martinelli da Silva] DBID=304461 identity=Martinelli da Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=76 | start=2003 | end=2008-04-02 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Mendonça de Mattos] DBID=312252 identity=Mendonça de Mattos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=337 | start=2004 | end=2008-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Miranda de Oliveira] DBID=3301166 identity=Miranda de Oliveira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=413 | start=2004 | end=2006-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Miranda Rocha da Silva] DBID=304464 identity=Miranda Rocha da Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=755 | start=2003 | end=2008-05-05 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Nelo] DBID=6900052 identity=Nelo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=653 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Patrocínio Rosa] DBID=316518 identity=Patrocínio Rosa source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=459 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pereira de Camargo] DBID=2013448 identity=Pereira de Camargo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=341 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Péricles Raimundo] DBID=305445 identity=Péricles Raimundo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=2334 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Quadros da Silva] DBID=310744 identity=Quadros da Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=215 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Reinaldo Leandro] DBID=316520 identity=Reinaldo Leandro source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rodrigues Scuccuglia] DBID=316529 identity=Rodrigues Scuccuglia source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=359 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rosivaldo] DBID=3301333 identity=Rosivaldo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=432 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Sagrillo] DBID=310753 identity=Sagrillo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=759 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Sílvio Luiz] DBID=304493 identity=Sílvio Luiz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD São Caetano | active=AD São Caetano | loan=False
+  wage=3060 | start=1998 | end=2005-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Triguinho] DBID=319223 identity=Triguinho source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Figueirense FC | active=AD São Caetano | loan=True
+  wage=790 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Venâncio de Albuquerque] DBID=6900550 identity=Venâncio de Albuquerque source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Santos FC | active=AD São Caetano | loan=True
+  wage=82 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Carlos Isidro] DBID=306328 identity=Carlos Isidro source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Vasco da Gama | active=AD Vasco da Gama | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Cláudio José] DBID=306316 identity=Cláudio José source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Vasco da Gama | active=AD Vasco da Gama | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Honório Oliveira] DBID=306327 identity=Honório Oliveira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Vasco da Gama | active=AD Vasco da Gama | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Josué] DBID=306312 identity=Josué source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Vasco da Gama | active=AD Vasco da Gama | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Máximo] DBID=306313 identity=Máximo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Vasco da Gama | active=AD Vasco da Gama | loan=False
+  wage=92 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Raimundo de Almida] DBID=316823 identity=Raimundo de Almida source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AD Vasco da Gama | active=AD Vasco da Gama | loan=False
+  wage=294 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marcos Silva] DBID=304639 identity=Marcos Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AE Araçatuba | active=AE Araçatuba | loan=False
+  wage=442 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alvim dos Santos] DBID=317386 identity=Alvim dos Santos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AE Catuense | active=AE Catuense | loan=False
+  wage=89 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Assis] DBID=317392 identity=Assis source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AE Catuense | active=AE Catuense | loan=False
+  wage=276 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Braúna] DBID=317390 identity=Braúna source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AE Catuense | active=AE Catuense | loan=False
+  wage=197 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Castro da Costa] DBID=317385 identity=Castro da Costa source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AE Catuense | active=AE Catuense | loan=False
+  wage=201 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Cruz Vieira] DBID=317383 identity=da Cruz Vieira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AE Catuense | active=AE Catuense | loan=False
+  wage=161 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Elzon] DBID=317388 identity=Elzon source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AE Catuense | active=AE Catuense | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Erasmo] DBID=316273 identity=Erasmo source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=EC Vitória | active=AE Catuense | loan=True
+  wage=30 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[José Celso] DBID=317608 identity=José Celso source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AE Catuense | active=AE Catuense | loan=False
+  wage=143 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Nicolas] DBID=8830369 identity=Nicolas source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=EC Vitória | active=AE Catuense | loan=True
+  wage=30 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Nílton César] DBID=8825853 identity=Nílton César source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AE Jataiense | active=AE Jataiense | loan=False
+  wage=319 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Olávio Dorico] DBID=306997 identity=Olávio Dorico source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AE Sapiranga | active=AE Sapiranga | loan=False
+  wage=250 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Edinho Cardoso] DBID=312161 identity=Edinho Cardoso source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AEC Baraúnas | active=AEC Baraúnas | loan=False
+  wage=250 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Maxwell Scherer] DBID=310874 identity=Maxwell Scherer source=IDENTITY_FRAGMENT
+  status=Contracted | owner=AFC Ajax | active=AFC Ajax | loan=False
+  wage=18971 | start=2001 | end=2006-07-01 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Edson Marcelo] DBID=5230005 identity=Edson Marcelo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Ajaccio | active=Ajaccio | loan=False
+  wage=3905 | start=2004 | end=2007-06-30 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pereira Surcin] DBID=3301207 identity=Pereira Surcin source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Ajaccio | active=Ajaccio | loan=False
+  wage=6921 | start=2004 | end=2005-06-30 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Louruz] DBID=3900632 identity=Louruz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Al Ahli (KSA) | active=Al Ahli (KSA) | loan=False
+  wage=4928 | start=2001 | end=2008-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rogério Josué] DBID=5260810 identity=Rogério Josué source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Al Ahli (KSA) | active=Al Ahli (KSA) | loan=False
+  wage=1314 | start=2004 | end=2006-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rodrigo Mendes] DBID=3301303 identity=Rodrigo Mendes source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Al Ain | active=Al Ain | loan=False
+  wage=9929 | start=2001 | end=2006-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Cabral] DBID=8626147 identity=Cabral source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Al Arabi (QAT) | active=Al Arabi (QAT) | loan=False
+  wage=2000 | start=2001 | end=2008-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Simas Luciano] DBID=305590 identity=Simas Luciano source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Al Ittihad (KSA) | active=Al Ittihad (KSA) | loan=False
+  wage=1003 | start=2003 | end=2005-06-30 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Paulo Frederico] DBID=302460 identity=Paulo Frederico source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Guarani FC | active=Al Khor | loan=True
+  wage=566 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Baéca] DBID=312180 identity=Baéca source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alecrim FC | active=Alecrim FC | loan=False
+  wage=250 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alexandre Baby] DBID=316115 identity=Alexandre Baby source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=412 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Almeida Cruz] DBID=316109 identity=Almeida Cruz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=146 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Cabral dos Santos] DBID=316118 identity=Cabral dos Santos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=161 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Costa Carvalho] DBID=316119 identity=Costa Carvalho source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=466 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Dirley] DBID=315795 identity=Dirley source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=206 | start=2002 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Edivaldo] DBID=316117 identity=Edivaldo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=243 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Falcão Pereira] DBID=316106 identity=Falcão Pereira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=239 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Lins dos Santos] DBID=316110 identity=Lins dos Santos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=245 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Neves Lima] DBID=316116 identity=Neves Lima source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=179 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Reiger] DBID=316111 identity=Reiger source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=492 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Samuel Lima] DBID=316114 identity=Samuel Lima source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=100 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Torres Cardoso] DBID=316120 identity=Torres Cardoso source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Alegrense FC | active=Alegrense FC | loan=False
+  wage=248 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pedro Marcelo] DBID=318294 identity=Pedro Marcelo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Amadense EC | active=Amadense EC | loan=False
+  wage=250 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alves Botelho] DBID=8833473 identity=Alves Botelho source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=284 | start=2001 | end=2006-05-01 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alves da Silva Almeida] DBID=3301124 identity=Alves da Silva Almeida source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=247 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Anderson Aurélio] DBID=310597 identity=Anderson Aurélio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=84 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[André Figueiredo] DBID=303252 identity=André Figueiredo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=161 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[André Henrique] DBID=309109 identity=André Henrique source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=185 | start=2001 | end=2007-02-28 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Aparecido Vivas Vergílio] DBID=310604 identity=Aparecido Vivas Vergílio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=237 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Avelino Coelho] DBID=8833480 identity=Avelino Coelho source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=30 | start=2001 | end=2006-12-26 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Batista de Jesus] DBID=729008 identity=Batista de Jesus source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=207 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Carvalho Silva] DBID=309118 identity=Carvalho Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=470 | start=2000 | end=2005-02-01 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Coelho Claudiano] DBID=8833483 identity=Coelho Claudiano source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=194 | start=2001 | end=2007-03-25 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Conte Minari] DBID=310600 identity=Conte Minari source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=162 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Fonseca Euzébio] DBID=8833481 identity=da Fonseca Euzébio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=155 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Daniel Célio] DBID=8833477 identity=Daniel Célio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=161 | start=2001 | end=2006-06-02 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Oliveira Preto] DBID=303255 identity=de Oliveira Preto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=755 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Deílson Elias] DBID=8833478 identity=Deílson Elias source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=196 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Dutra de Resende] DBID=3301130 identity=Dutra de Resende source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=606 | start=2002 | end=2006-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Evaristo] DBID=304967 identity=Evaristo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=160 | start=2002 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Fahel Matos] DBID=8833479 identity=Fahel Matos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=235 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Foletto] DBID=8833485 identity=Foletto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=170 | start=2001 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[France da Silva] DBID=8833484 identity=France da Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=184 | start=2003 | end=2005-03-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Francisco Narcízio] DBID=6900123 identity=Francisco Narcízio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=602 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Furlan] DBID=310596 identity=Furlan source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=169 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gélson] DBID=2001669 identity=Gélson source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Ituano SCF | active=América FC (MG) | loan=True
+  wage=295 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Goiano] DBID=302030 identity=Goiano source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=323 | start=2002 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gonçalves Lima] DBID=309112 identity=Gonçalves Lima source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=249 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[José Caetano] DBID=3300004 identity=José Caetano source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Mamoré EC | active=América FC (MG) | loan=True
+  wage=168 | start=2002 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Laílson] DBID=309113 identity=Laílson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=174 | start=2001 | end=2005-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marcelo Luiz] DBID=317141 identity=Marcelo Luiz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=173 | start=2002 | end=2005-10-22 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Morais Reis] DBID=8833476 identity=Morais Reis source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=30 | start=2001 | end=2005-05-14 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pléz Honorato] DBID=307347 identity=Pléz Honorato source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=386 | start=2004 | end=2005-01-06 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ranieri] DBID=303254 identity=Ranieri source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=107 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Reginaldo Aparecido] DBID=4101983 identity=Reginaldo Aparecido source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=141 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Reinaldo José] DBID=304943 identity=Reinaldo José source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=304 | start=2003 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ricardo Luiz] DBID=309116 identity=Ricardo Luiz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=212 | start=2001 | end=2006-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rodrigo Leonardo] DBID=309117 identity=Rodrigo Leonardo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=270 | start=2001 | end=2006-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Teixeira Duarte] DBID=8833475 identity=Teixeira Duarte source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=197 | start=2001 | end=2006-03-02 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Tércio] DBID=6900061 identity=Tércio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=212 | start=2002 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Todescato] DBID=320496 identity=Todescato source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=EC Juventude | active=América FC (MG) | loan=True
+  wage=162 | start=2003 | end=2008-01-01 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Wesley Christian] DBID=309119 identity=Wesley Christian source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (MG) | active=América FC (MG) | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alan Carlos] DBID=315110 identity=Alan Carlos source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=CR Flamengo | active=América FC (RJ) | loan=True
+  wage=331 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alan Kardec] DBID=8833486 identity=Alan Kardec source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=77 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alfredo] DBID=8827045 identity=Alfredo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=100 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Almeida Triunfo] DBID=315377 identity=Almeida Triunfo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Araújo do Nascimento] DBID=306150 identity=Araújo do Nascimento source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=CE Arraial do Cabo | active=América FC (RJ) | loan=True
+  wage=373 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Bezerra da Silva Neto] DBID=315347 identity=Bezerra da Silva Neto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=157 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Bizarro] DBID=315371 identity=Bizarro source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=215 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Cardoso] DBID=3300392 identity=Cardoso source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=226 | start=2003 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Faria Ribeiro] DBID=315368 identity=de Faria Ribeiro source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=175 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Souza Eugênio] DBID=315344 identity=de Souza Eugênio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=210 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Erivelton] DBID=8833487 identity=Erivelton source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Estrela do Norte FC | active=América FC (RJ) | loan=True
+  wage=189 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Fágner] DBID=315369 identity=Fágner source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Fateus dos Santos] DBID=3301346 identity=Fateus dos Santos source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Madureira EC | active=América FC (RJ) | loan=True
+  wage=157 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Felipe Campos] DBID=315365 identity=Felipe Campos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=145 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Felipe Santos] DBID=315349 identity=Felipe Santos source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=CE Arraial do Cabo | active=América FC (RJ) | loan=True
+  wage=291 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Fernandes Martins] DBID=3300555 identity=Fernandes Martins source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=341 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Greick] DBID=306708 identity=Greick source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=354 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Hellman] DBID=8831859 identity=Hellman source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=156 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Jardemilson] DBID=303047 identity=Jardemilson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=486 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[João Wellington] DBID=311420 identity=João Wellington source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Júlio Alencar] DBID=8827041 identity=Júlio Alencar source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=100 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Laranjeira Carvalho] DBID=311417 identity=Laranjeira Carvalho source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Márcio Francisco] DBID=315387 identity=Márcio Francisco source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=232 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Monteiro Ramos] DBID=315363 identity=Monteiro Ramos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=124 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Oliveira Gonçalves do Carmo] DBID=319644 identity=Oliveira Gonçalves do Carmo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=626 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Pinto Carvalho] DBID=3300556 identity=Pinto Carvalho source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=141 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ramos de Oliveira] DBID=305828 identity=Ramos de Oliveira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ricardo Barros] DBID=8827042 identity=Ricardo Barros source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=100 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rocha Galvão] DBID=304252 identity=Rocha Galvão source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=587 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Romário] DBID=14643 identity=Romário source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=400 | start=2002 | end=2006-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Sales Filho] DBID=315366 identity=Sales Filho source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=104 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Souza Soares] DBID=315372 identity=Souza Soares source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=284 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Tadeu Gustavo] DBID=315353 identity=Tadeu Gustavo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=75 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Veloso] DBID=3300573 identity=Veloso source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=137 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Wellerson] DBID=3300271 identity=Wellerson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=139 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Zé Ricardo] DBID=315359 identity=Zé Ricardo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RJ) | active=América FC (RJ) | loan=False
+  wage=178 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alexsander] DBID=3300696 identity=Alexsander source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=673 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Arcilândio] DBID=321218 identity=Arcilândio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=170 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Artur] DBID=302560 identity=Artur source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=700 | start=2001 | end=2008-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Barbosa Coutinho] DBID=8825043 identity=Barbosa Coutinho source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Alecrim FC | active=América FC (RN) | loan=True
+  wage=376 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Batista Riberio] DBID=311398 identity=Batista Riberio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=30 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Bélico] DBID=315985 identity=Bélico source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=221 | start=2004 | end=2004-12-15 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Bento da Cruz] DBID=3301302 identity=Bento da Cruz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=341 | start=2004 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Blanco] DBID=8825048 identity=Blanco source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=100 | start=2001 | end=2009-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Christofer Augusto] DBID=302691 identity=Christofer Augusto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=467 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[das Chagas do Nascimento] DBID=306771 identity=das Chagas do Nascimento source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=644 | start=2003 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Oliveira Agondi] DBID=6900065 identity=de Oliveira Agondi source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=303 | start=2004 | end=2004-12-15 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Édson Ricardo] DBID=306119 identity=Édson Ricardo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=740 | start=2004 | end=2004-12-15 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Émerson Luís] DBID=305724 identity=Émerson Luís source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=186 | start=2004 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Everton Luiz] DBID=8833489 identity=Everton Luiz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=168 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ewerton Carlos] DBID=8825045 identity=Ewerton Carlos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=342 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ferreira de Melo Júnior] DBID=311076 identity=Ferreira de Melo Júnior source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=100 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Francisco Elissandro] DBID=321076 identity=Francisco Elissandro source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=301 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Geraldo Luís] DBID=3901584 identity=Geraldo Luís source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=552 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gino Fernando] DBID=311063 identity=Gino Fernando source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=515 | start=2004 | end=2004-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gito] DBID=6900187 identity=Gito source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=347 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Gomes das Neves] DBID=321214 identity=Gomes das Neves source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=162 | start=2004 | end=2004-12-15 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ivisson José] DBID=8833495 identity=Ivisson José source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=275 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Jefferson Luís] DBID=3300991 identity=Jefferson Luís source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=424 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Joatan Francisco] DBID=321219 identity=Joatan Francisco source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=143 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Josué] DBID=8833498 identity=Josué source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=126 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Laudeleno] DBID=321077 identity=Laudeleno source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=198 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Luiz Fabiano] DBID=8833491 identity=Luiz Fabiano source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Mirassol FC | active=América FC (RN) | loan=True
+  wage=492 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Luiz Júnior] DBID=321222 identity=Luiz Júnior source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=260 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marcão] DBID=312143 identity=Marcão source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=397 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marcelo Rosa] DBID=3301106 identity=Marcelo Rosa source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=617 | start=2004 | end=2004-12-15 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Médici] DBID=311194 identity=Médici source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=AA Ponte Preta | active=América FC (RN) | loan=True
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Miranda Garcez] DBID=8825039 identity=Miranda Garcez source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=367 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Nogueira Silva] DBID=8833494 identity=Nogueira Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=151 | start=2004 | end=2004-12-15 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ramos de Jesús] DBID=6900206 identity=Ramos de Jesús source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=142 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Regiovaldo] DBID=321220 identity=Regiovaldo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=242 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Róbson Vicente] DBID=311776 identity=Róbson Vicente source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=260 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rodrigues de Oliveira] DBID=8833497 identity=Rodrigues de Oliveira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=168 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rosinaldo] DBID=319270 identity=Rosinaldo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=109 | start=2002 | end=2005-12-20 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Samuel Fernando] DBID=8833499 identity=Samuel Fernando source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=247 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Severo] DBID=8825049 identity=Severo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=150 | start=2001 | end=2007-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Silva Ribeiro] DBID=4206721 identity=Silva Ribeiro source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=131 | start=2002 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Teixeira dos Reis] DBID=315212 identity=Teixeira dos Reis source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=366 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Valeriano dos Santos] DBID=321215 identity=Valeriano dos Santos source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=263 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Valterson] DBID=321216 identity=Valterson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=241 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Washington Francisco] DBID=8833492 identity=Washington Francisco source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=308 | start=2001 | end=2005-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Zuim da Silva] DBID=321217 identity=Zuim da Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (RN) | active=América FC (RN) | loan=False
+  wage=156 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Bispo Pereira] DBID=319276 identity=Bispo Pereira source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Brasiliense FC | active=América FC (SP) | loan=True
+  wage=259 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Costa de Souza] DBID=304587 identity=Costa de Souza source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (SP) | active=América FC (SP) | loan=False
+  wage=322 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Leite Moreira] DBID=302729 identity=Leite Moreira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (SP) | active=América FC (SP) | loan=False
+  wage=75 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Michel] DBID=304581 identity=Michel source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (SP) | active=América FC (SP) | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rafael Camilo] DBID=306797 identity=Rafael Camilo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (SP) | active=América FC (SP) | loan=False
+  wage=158 | start=2002 | end=2007-02-05 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Ribeiro Vargas] DBID=302170 identity=Ribeiro Vargas source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (SP) | active=América FC (SP) | loan=False
+  wage=208 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Rovílson] DBID=304582 identity=Rovílson source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (SP) | active=América FC (SP) | loan=False
+  wage=392 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Samir] DBID=318176 identity=Samir source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (SP) | active=América FC (SP) | loan=False
+  wage=140 | start=2004 | end=2007-07-19 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Sérgio Lobo] DBID=3301373 identity=Sérgio Lobo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (SP) | active=América FC (SP) | loan=False
+  wage=457 | start=2003 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Souza de Carvalho] DBID=304590 identity=Souza de Carvalho source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (SP) | active=América FC (SP) | loan=False
+  wage=424 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Valdivino da Silva] DBID=304584 identity=Valdivino da Silva source=IDENTITY_FRAGMENT
+  status=Contracted | owner=América FC (SP) | active=América FC (SP) | loan=False
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Alves Batistela] DBID=315224 identity=Alves Batistela source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Americano FC (RJ) | active=Americano FC (RJ) | loan=False
+  wage=307 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Anderson Luís] DBID=315219 identity=Anderson Luís source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Americano FC (RJ) | active=Americano FC (RJ) | loan=False
+  wage=86 | start=2002 | end=2006-12-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Bremide Sales] DBID=8826364 identity=Bremide Sales source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Cachoeiro FC | active=Americano FC (RJ) | loan=True
+  wage=75 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Charles Roberto] DBID=8833501 identity=Charles Roberto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Americano FC (RJ) | active=Americano FC (RJ) | loan=False
+  wage=224 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Claine Luiz] DBID=8833503 identity=Claine Luiz source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Americano FC (RJ) | active=Americano FC (RJ) | loan=False
+  wage=120 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[da Conceição Pereira] DBID=305422 identity=da Conceição Pereira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Americano FC (RJ) | active=Americano FC (RJ) | loan=False
+  wage=126 | start=2004 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Carvalho Silveira] DBID=3301481 identity=de Carvalho Silveira source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=AD Cabofriense | active=Americano FC (RJ) | loan=True
+  wage=283 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Oliveira Ferreira] DBID=315218 identity=de Oliveira Ferreira source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Americano FC (RJ) | active=Americano FC (RJ) | loan=False
+  wage=362 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[de Souza Rita] DBID=315232 identity=de Souza Rita source=IDENTITY_FRAGMENT
+  status=OnLoan | owner=Rio Branco (RJ) | active=Americano FC (RJ) | loan=True
+  wage=92 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Fabrício Ernesto] DBID=315235 identity=Fabrício Ernesto source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Americano FC (RJ) | active=Americano FC (RJ) | loan=False
+  wage=208 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Flávio Damião] DBID=315234 identity=Flávio Damião source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Americano FC (RJ) | active=Americano FC (RJ) | loan=False
+  wage=364 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[José Flávio] DBID=308968 identity=José Flávio source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Americano FC (RJ) | active=Americano FC (RJ) | loan=False
+  wage=276 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+
+[Marcelo Ricardo] DBID=306249 identity=Marcelo Ricardo source=IDENTITY_FRAGMENT
+  status=Contracted | owner=Americano FC (RJ) | active=Americano FC (RJ) | loan=False
+  wage=222 | start=2001 | end=2006-01-31 (Defined) | flags=DISPLAY_NAME_UNRESOLVED
+

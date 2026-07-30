@@ -1,0 +1,32 @@
+﻿FM Genie Scout 2005 — PlayerParserDataQuality 0.0.29.1
+================================================================================================
+Arquivo: C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\FMGenieScout2005-gamedb-20260728-213718\game_db.payload.bin
+Tamanho: 11.127.792 bytes
+SHA-256: b45c75fed7eb3e69588fcfae20987565621d3d3b6055401f6e146b0d6435171a
+Jogadores consolidados: 4.482
+Jogadores emprestados: 301
+Contratos de formação: 175
+Agentes livres confirmados: 1
+Datas de término N/D: 175
+Clubes proprietários distintos: 393
+Clubes ativos distintos: 393
+Contratos individuais: 4.782
+Relacionamentos de origem: 4.481
+Candidatos contratuais rejeitados: 487
+Validação conhecida: 10/10
+
+Casos conhecidos:
+  Reginaldo Araújo       owner=Coritiba FC                  active=CR Flamengo                  status=OnLoan             VALIDATED
+  Anderson               owner=CR Flamengo                  active=SER Caxias do Sul            status=OnLoan             VALIDATED
+  Édson Araújo           owner=SC Corinthians Paulista      active=Fortaleza EC                 status=OnLoan             VALIDATED
+  Luciano Ratinho        owner=SC Corinthians Paulista      active=Grêmio FBPA                  status=OnLoan             VALIDATED
+  Marcelo Magalhães      owner=SC Corinthians Paulista      active=Grêmio FBPA                  status=OnLoan             VALIDATED
+  Jean                   owner=CR Flamengo                  active=CR Flamengo                  status=Contracted         VALIDATED
+  Athirson               owner=CR Flamengo                  active=CR Flamengo                  status=Contracted         VALIDATED
+  Celso Luís             owner=A Portuguesa D               active=A Portuguesa D               status=FormationContract  VALIDATED
+  Jonas                  owner=AD São Caetano               active=AD São Caetano               status=FormationContract  VALIDATED
+  Vasilis Tsiartas       owner=-                            active=-                            status=FreeAgent          VALIDATED
+
+Sentinela confirmada: EndYear=1900 e EndDay=1 significa término não definido (N/D), não 02/01/1900.
+Arquivos gerados: players.csv, players-on-loan.csv, players-free-agents.csv, players-formation-contracts.csv, players-with-undefined-contract-end.csv, players-data-quality-flags.csv, players-by-active-club.csv e player-parser-validation.csv.
+O arquivo de save não foi modificado.

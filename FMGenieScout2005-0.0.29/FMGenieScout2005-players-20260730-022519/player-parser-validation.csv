@@ -1,0 +1,11 @@
+﻿player,database_id,found,owner_club,active_club,is_on_loan,employment_status,owner_matches,active_matches,loan_matches,employment_matches,assessment
+"Reginaldo Araújo",3300780,True,"Coritiba FC","CR Flamengo",True,OnLoan,True,True,True,True,VALIDATED
+"Anderson",3301240,True,"CR Flamengo","SER Caxias do Sul",True,OnLoan,True,True,True,True,VALIDATED
+"Édson Araújo",308345,True,"SC Corinthians Paulista","Fortaleza EC",True,OnLoan,True,True,True,True,VALIDATED
+"Luciano Ratinho",6900008,True,"SC Corinthians Paulista","Grêmio FBPA",True,OnLoan,True,True,True,True,VALIDATED
+"Marcelo Magalhães",302580,True,"SC Corinthians Paulista","Grêmio FBPA",True,OnLoan,True,True,True,True,VALIDATED
+"Jean",315116,True,"CR Flamengo","CR Flamengo",False,Contracted,True,True,True,True,VALIDATED
+"Athirson",3301535,True,"CR Flamengo","CR Flamengo",False,Contracted,True,True,True,True,VALIDATED
+"Celso Luís",8832899,True,"A Portuguesa D","A Portuguesa D",False,FormationContract,True,True,True,True,VALIDATED
+"Jonas",8835083,True,"AD São Caetano","AD São Caetano",False,FormationContract,True,True,True,True,VALIDATED
+"Vasilis Tsiartas",12774,True,"","",False,FreeAgent,True,True,True,True,VALIDATED
